@@ -1,0 +1,10 @@
+Changes
+MANIFEST
+Makefile.PL
+WeatherNOAA.pm
+test.pl
+README
+examples/hash.pl
+examples/simple.pl
+examples/simple2.pl
+examples/wx.cgi
